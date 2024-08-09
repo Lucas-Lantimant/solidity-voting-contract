@@ -1,0 +1,22 @@
+{
+  "name": "hardhat-project",
+  "version": "1.0.0",
+  "description": "A Solidity smart contract for voting, featuring candidate management and vote tracking. Includes comprehensive JavaScript tests using Hardhat.",
+  "main": "hardhat.config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blockchain",
+    "solidity",
+    "ethereum"
+  ],
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.8"
+  },
+  "license": "MIT"
+}
